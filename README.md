@@ -11,6 +11,24 @@ Build a library of recipes for users to browse and use in their diet planning.
 3. **Recipe Categories:**
    - Categorise recipes for easy navigation.
 
+## Description
+This project aims to build a library of recipes for users to browse and use in their diet planning.
+
+**Aspects to Consider:**
+
+- **Schema Design:**
+  - Plan how to structure the database to store recipe details, ingredients, and categories.
+  - Consider how to handle user-generated content and ratings.
+
+- **React App Design:**
+  - Design components for browsing recipes, viewing recipe details, and filtering by categories.
+  - Ensure a user-friendly interface for navigating the recipe library.
+
+- **Best Practices:**
+  - Ensure accurate and detailed recipe information.
+  - Implement robust search and filtering functionalities.
+  - Consider adding user interaction features like ratings, comments, and favourites.
+
 ## Technical Requirements
 - **Backend:** Node.js with Express
 - **Database:** Supabase
